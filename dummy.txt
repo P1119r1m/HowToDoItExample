@@ -1,2 +1,2 @@
 dummy
-line from remote git repository
+Our local changes of line 2
